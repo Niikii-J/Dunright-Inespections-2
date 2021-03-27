@@ -183,7 +183,7 @@ a:focus {
 .navbar .navbar-brand {
   margin: 0;
   color: #ffffff;
-  font-size: 45px;
+  font-size: 30px;
   line-height: 0px;
   font-weight: 200;
   text-transform: uppercase;
@@ -254,6 +254,11 @@ a:focus {
 
   .navbar .dropdown-menu {
     box-shadow: none;
+  }
+
+  .navbar .navbar-brand {
+    font-size: 20px;
+    text-align: right;
   }
 }
 
